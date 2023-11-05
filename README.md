@@ -1,6 +1,6 @@
 # Info manga
 
-this is a simple flutter app that fetches data from [jikan](https://www.jikan.moe) api and displays it in a list view.
+this is a simple flutter app that fetches data from [jikan](https://jikan.moe/) api and displays it in a list view.
 and deskripsi manga in detail page.
 ## Getting Started
 ``` bash
